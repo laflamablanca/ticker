@@ -412,7 +412,7 @@
 	$.fn.ticker.defaults = {
 		speed: 0.10,			
 		ajaxFeed: true,
-		feedUrl: 'includes/nprfeed.rss',
+		feedUrl: 'includes/testfeed.rss',
 		feedType: 'xml',
 		displayType: 'reveal',
 		htmlFeed: false,
