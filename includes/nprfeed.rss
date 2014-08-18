@@ -1,24 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
 <channel>
-<title>Science</title>
-<link>
-http://www.npr.org/templates/story/story.php?storyId=1007
-</link>
-<description>
-The latest health and science news. Updates on medicine, healthy living, nutrition, drugs, diet, and advances in science and technology. Subscribe to the Health & Science podcast.
-</description>
-<language>en</language>
-<copyright>Copyright 2014 NPR - For Personal Use Only</copyright>
-<generator>NPR API RSS Generator 0.94</generator>
-<lastBuildDate>Mon, 18 Aug 2014 10:31:22 -0400</lastBuildDate>
-<image>
-<url>http://media.npr.org/images/logo_npr_125x40.png</url>
-<title>Science</title>
-<link>
-http://www.npr.org/templates/story/story.php?storyId=1007
-</link>
-</image>
+
 <item>
 <title>
 Broken Teeth And Fake-umentaries: Another Shark Week Gone By
