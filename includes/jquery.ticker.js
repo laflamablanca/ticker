@@ -411,11 +411,11 @@
 	// plugin defaults - added as a property on our plugin function
 	$.fn.ticker.defaults = {
 		speed: 0.10,			
-		ajaxFeed: false,
-		feedUrl: '',
+		ajaxFeed: true,
+		feedUrl: 'nprfeed.rss',
 		feedType: 'xml',
 		displayType: 'reveal',
-		htmlFeed: true,
+		htmlFeed: false,
 		debugMode: true,
 		controls: true,
 		titleText: 'Latest',	
