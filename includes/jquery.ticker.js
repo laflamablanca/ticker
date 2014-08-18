@@ -412,7 +412,7 @@
 	$.fn.ticker.defaults = {
 		speed: 0.10,			
 		ajaxFeed: true,
-		feedUrl: 'http://news.google.com/news?pz=1&cf=all&ned=us&hl=en&topic=m&output=rss',
+		feedUrl: 'https://news.google.com/news?pz=1&cf=all&ned=us&hl=en&topic=m&output=rss',
 		feedType: 'xml',
 		displayType: 'reveal',
 		htmlFeed: false,
