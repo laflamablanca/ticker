@@ -411,11 +411,11 @@
 	// plugin defaults - added as a property on our plugin function
 	$.fn.ticker.defaults = {
 		speed: 0.10,			
-		ajaxFeed: true,
-		feedUrl: 'https://news.google.com/news?pz=1&cf=all&ned=us&hl=en&topic=m&output=rss',
+		ajaxFeed: false,
+		feedUrl: '',
 		feedType: 'xml',
 		displayType: 'reveal',
-		htmlFeed: false,
+		htmlFeed: true,
 		debugMode: true,
 		controls: true,
 		titleText: 'Latest',	
